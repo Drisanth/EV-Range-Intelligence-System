@@ -1,9 +1,4 @@
-Perfect ✅ — here’s your **GitHub-ready README.md** — formatted beautifully for Markdown, complete with emojis, structure, and code blocks.
-You can **copy-paste this directly** into your repo’s `README.md` file — no edits needed.
 
----
-
-```markdown
 # ⚡ Confidence-Aware AI Framework for Electric Vehicle Range Prediction and Range Anxiety Reduction
 
 ### 📘 Abstract
